@@ -1,0 +1,7 @@
+loop : The repetition of the program until the given condition is satisfied.
+Types of loop 
+1.for
+2. while 
+3. do while 
+
+

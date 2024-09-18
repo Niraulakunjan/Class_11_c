@@ -1,0 +1,6 @@
+Array is the collect of the elements of similar data type.
+
+types are
+1. 1D
+2. 2D
+ 

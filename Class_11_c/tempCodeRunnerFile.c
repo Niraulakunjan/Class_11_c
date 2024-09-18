@@ -1,0 +1,1 @@
+printf("You can't vote");
